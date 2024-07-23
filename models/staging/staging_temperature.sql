@@ -1,5 +1,5 @@
 SELECT
-    'time',
+    time,
     temperature_2m,
     latitude,
     longitude,
