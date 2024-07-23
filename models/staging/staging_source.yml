@@ -6,4 +6,4 @@ sources:
     database: kestra
     schema: data
     tables:
-      - name: weather
+      - name: temperature

@@ -4,4 +4,4 @@ SELECT
     latitude,
     longitude,
     city
-FROM {{ source('data', 'weather') }}
+FROM {{ source('weather', 'temperature') }}
