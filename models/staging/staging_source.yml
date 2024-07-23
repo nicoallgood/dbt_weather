@@ -2,8 +2,8 @@ version: 2
 
 sources:
 
-  - name: weather
+  - name: source_api
     database: kestra
     schema: data
     tables:
-      - name: temperature
+      - name: weather
