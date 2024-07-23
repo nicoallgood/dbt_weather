@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+
+  - name: weather
+    database: kestra
+    schema: data
+    tables:
+      - name: weather
