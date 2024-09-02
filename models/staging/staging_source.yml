@@ -3,7 +3,7 @@ version: 2
 sources:
 
   - name: source_api
-    database: kestra
+    database: kestraNew
     schema: data
     tables:
       - name: weather
